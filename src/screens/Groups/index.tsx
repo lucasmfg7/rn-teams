@@ -1,11 +1,7 @@
-import { Container, Title } from './styles'
+import { Container } from './styles'
 
 const Groups: React.FC = () => {
-  return (
-    <Container>
-      <Title>Hello There</Title>
-    </Container>
-  )
+  return <Container></Container>
 }
 
 export default Groups
