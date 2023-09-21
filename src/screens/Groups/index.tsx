@@ -1,11 +1,10 @@
-import React from 'react'
-import { Text, View } from 'react-native'
+import { Container, Title } from './styles'
 
 const Groups: React.FC = () => {
   return (
-    <View>
-      <Text>Hello There</Text>
-    </View>
+    <Container>
+      <Title>Hello There</Title>
+    </Container>
   )
 }
 
